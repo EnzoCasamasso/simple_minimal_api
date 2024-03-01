@@ -1,0 +1,6 @@
+bin/
+obj/
+banco.sqlite
+Migrations/
+.idea/
+Properties/
